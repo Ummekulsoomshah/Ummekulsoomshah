@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ummekulsoomshah
 - 👀 I’m interested in Machine Learning and AI's Miracles
-- 🌱 I’m currently learning Frontend Development
+- 🌱 I’m currently learning react.
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me https://www.linkedin.com/in/syeda-umm-e-kulsoom-259001268/
 
