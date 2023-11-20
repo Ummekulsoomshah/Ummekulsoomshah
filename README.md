@@ -23,9 +23,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/ummekulsoomshah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/ummekulsoomshah" height="30" width="40" /></a>
+<a href="[https://dev.to/https://dev.to/ummekulsoomshah](https://dev.to/ummekulsoomshah)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/ummekulsoomshah" height="30" width="40" /></a>
 <a href="https://twitter.com/ummekulsoom215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ummekulsoom215" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/%e2%9c%a8syeda-umm-e-kulsoom-259001268/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/%e2%9c%a8syeda-umm-e-kulsoom-259001268/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/%e2%9c%a8syeda-umm-e-kulsoom-259001268/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/%e2%9c%a8syeda-umm-e-kulsoom-259001268/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/ummekulsoom215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/ummekulsoom215" height="30" width="40" /></a>
 <a href="https://discord.gg/215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="215" height="30" width="40" /></a>
 </p>
