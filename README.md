@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ummekulsoomshah](https://github.com/Ummekulsoomshah)
 
-- 💬 Ask me about **frontend development,Copetitive Programming**
+- 💬 Ask me about **frontend development,Competitive Programming**
 
 - 📫 How to reach me **ummekulsoom215@gmail.com**
 
