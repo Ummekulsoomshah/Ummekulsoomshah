@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/ummekulsoom215" target="blank"><img src="https://img.shields.io/twitter/follow/ummekulsoom215?logo=twitter&style=for-the-badge" alt="ummekulsoom215" /></a> </p>
 
-- 🔭 I’m currently working on **Netflix Clone**
+- 🔭 I’m currently working on **Full Stack Website**
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **Redux**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **ummekulsoom215@gmail.com**
 
-- ⚡ Fun fact **I am Ronaldo's HUUUGE FAN**
+- ⚡ Fun fact **I am Ronaldo's HUGE FAN**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
