@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <span style="color: goldenrod;">Umme Kulsoom</span><h1/>
 
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate Web developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ummekulsoomshah&label=Profile%20views&color=0e75b6&style=flat" alt="ummekulsoomshah" /> </p>
 
@@ -10,13 +10,13 @@
 
 - 🔭 I’m currently working on **Full Stack Website**
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **ASP.NET**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ummekulsoomshah](https://github.com/Ummekulsoomshah)
 
-- 💬 Ask me about **frontend development,Competitive Programming**
+- 💬 Ask me about **Web development,Competitive Programming**
 
 - 📫 How to reach me **ummekulsoom215@gmail.com**
 
