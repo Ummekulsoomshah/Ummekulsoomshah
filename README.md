@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm <span style="color: goldenrod;">Umme Kulsoom</span><h1/>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ummekulsoomshah" alt="ummekulsoomshah" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/ummekulsoom215" target="blank"><img src="https://img.shields.io/twitter/follow/ummekulsoom215?logo=twitter&style=for-the-badge" alt="ummekulsoom215" /></a> </p>
 
 - 🔭 I’m currently working on **Full Stack Website**
