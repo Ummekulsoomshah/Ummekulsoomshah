@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **Full Stack Website**
 
-- 🌱 I’m currently learning **ASP.NET**
-
 - 👯 I’m looking to collaborate on **Open Source**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ummekulsoomshah](https://github.com/Ummekulsoomshah)
