@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/ummekulsoom215" target="blank"><img src="https://img.shields.io/twitter/follow/ummekulsoom215?logo=twitter&style=for-the-badge" alt="ummekulsoom215" /></a> </p>
 
-- 🔭 I’m currently learning on **LLM Engineering**
+- 🔭 I’m currently learning on **Backend development**
 
 - 📫 How to reach me **ummekulsoom215@gmail.com**
   <h3 align="left">I am familiar with following</h3>
