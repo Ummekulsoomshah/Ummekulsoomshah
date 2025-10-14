@@ -9,7 +9,7 @@
   <h3 align="left">I am familiar with following</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react,js,vite,bootstrap,vscode,visualstudio,py,dotnet,cs,cpp" />
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,react,nextjs,js,mongodb,postgresql,mysql,vite,bootstrap,vscode,visualstudio,py,dotnet,cs,cpp" />
   </a>
 </p>
 <p align="center">
