@@ -6,7 +6,12 @@
 - 🔭 I’m currently learning on **Backend development**
 
 - 📫 How to reach me **ummekulsoom215@gmail.com**
-  <h3 align="left">I am familiar with following</h3>
+- **Softwares and Tools**:
+
+    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- <h3 align="left">I am familiar with following</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,react,nextjs,js,mongodb,postgresql,mysql,vite,bootstrap,vscode,visualstudio,py,dotnet,cs,cpp" />
