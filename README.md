@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,react,nextjs,js,mongodb,postgresql,mysql,vite,bootstrap,vscode,visualstudio,py,dotnet,cs,cpp" />
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,react,nextjs,js,ts,mongodb,postgresql,mysql,vite,bootstrap,vscode,visualstudio,py,dotnet,cs,cpp" />
   </a>
 </p>
     <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
